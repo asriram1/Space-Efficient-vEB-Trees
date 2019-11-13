@@ -1,8 +1,8 @@
-# EC504-Project
+# EC504-Project Space Efficient vEB Trees
 EC504 Project: Space efficient VEB trees and their applications
 
 
-This repository consists of four files at this current stage:
+This repository consists of four files:
 
 eVEB.h is a class definition of our space efficient VEB data structures, including the member function prototypes.
 eVEB.cpp is an extension of the class definition, which includes all the member functions
